@@ -30,7 +30,7 @@
     * Create add name and model then click the Add Action button
     * Go to relevant model menu and select records in list view then assign the followers using "More" menu.
 """,
-    'price': 15.00,
+    'price': 22.00,
     'currency': 'EUR',
     'author': 'MAGESH',
     'depends': ['base'],
