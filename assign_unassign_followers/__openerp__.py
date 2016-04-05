@@ -21,7 +21,7 @@
 ##############################################################################
 {
     'name': 'Assign/Unassign Followers',
-    'version': '1.1',
+    'version': '7.0',
     'category': 'Settings',
     'description': """
     Assign or Unassign Followers to a record for any model
